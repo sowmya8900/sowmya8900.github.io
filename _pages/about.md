@@ -1,7 +1,8 @@
 ---
 title: "About Me"
-layout: page
-permalink: /about/
+layout: home
+permalink: /
+author_profile: true
 ---
 
 I am a PhD student in Computer Science at the University of Utah, advised by Prof. Manish Parashar at the Scientific Computing and Imaging (SCI) Institute. My research focuses on high-performance computing, benchmarking, workflow analysis, and large-scale data management. I am passionate about optimizing scientific workflows and analyzing communication impacts in large-scale scientific applications.
